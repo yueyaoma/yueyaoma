@@ -1,10 +1,14 @@
 ## Hi there 👋😀🌸🌸🌸
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yueyaoma&show_icons=true&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yueyaoma&theme=xcode" /> </div>
+
 
 ## GitHub streak
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yang-tian-hub" /> </div>
 
+## Most used languages
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" /> </div>
 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=人生何须早睡，死后自会长眠！&center=true&font=Roboto&size=27" /></div>
 
